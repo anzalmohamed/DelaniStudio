@@ -5,7 +5,7 @@
   
   .card h1 {
     position: relative;
-    padding-top: 10%;
+
     font-weight: bold;
   }
   
@@ -37,4 +37,28 @@
   footer{
       align-items: center;
   }
-  
+  footer{
+   align-content: center;
+  }
+.what-we-do{
+    margin-top: 1cm;
+}
+.about{
+    margin-top: 1cm;
+}
+#delani{
+    margin-top: 1cm;
+}
+#delani2{
+    margin-top: 1cm;
+}
+#welcome{
+    margin-top: 1cm;
+}
+.form-group{
+    margin-top: 1cm;
+    
+}
+.form-control{
+color:whitesmoke;
+}
