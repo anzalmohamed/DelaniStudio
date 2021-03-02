@@ -1,3 +1,37 @@
-#work1 img{
-    margin: 0cm;
-}
+.card {
+   
+    text-align: center;
+  }
+  
+  .card h1 {
+    position: relative;
+    padding-top: 10%;
+    font-weight: bold;
+  }
+  
+  .card p{
+    font-weight: bold;
+    font-family: Signika Negative, sans-serif;
+
+  }
+  .about{
+      text-align: center;
+  }
+  .about h2{
+      font:  sans-serif;
+      font-size: 1cm;
+      font-weight: bold;
+  }
+  .what-we-do {
+      text-align: center;
+  }
+  #development{
+      display: none;
+  }
+  #design{
+      display: none;
+  }
+  #product{
+      display: none;
+  }
+  
