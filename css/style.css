@@ -73,10 +73,10 @@ color:whitesmoke;
      margin-top: 0cm;
  }
  #mouse-click {
-    animation: up-down 3s infinite;
+    animation: bounce 3s infinite;
   }
   
-  @keyframes up-down{
+  @keyframes bounce{
     0%, 20%, 50%, 80%, 100% {
       transform: translateY(0);
     }
