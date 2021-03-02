@@ -42,6 +42,47 @@ $(document).ready(function(){
       else {
         alert("Please enter your name and email!");
       }
+      $('.work1').mouseover(function() {
+        $('.work1-overlay').show();
+      }).mouseout(function() {
+        $('.work1-overlay').hide();
+      });
+      $(".work2").mouseover(function() {
+        $(".work2-overlay").show();
+      }).mouseout(function() {
+        $(".work2-overlay").hide();
+      });
+      $(".work3").mouseover(function() {
+        $(".work3-overlay").show();
+      }).mouseout(function() {
+        $(".work3-overlay").hide();
+      });
+      $(".work4").mouseover(function() {
+        $(".work4-overlay").show();
+      }).mouseout(function() {
+        $(".work4-overlay").hide();
+      });
+      $(".work5").mouseover(function() {
+        $(".work5-overlay").show();
+      }).mouseout(function() {
+        $(".work5-overlay").hide();
+      });
+      $(".work6").mouseover(function() {
+        $(".work6-overlay").show();
+      }).mouseout(function() {
+        $(".work6-overlay").hide();
+      });
+      $(".work7").mouseover(function() {
+        $(".work7-overlay").show();
+      }).mouseout(function() {
+        $(".work7-overlay").hide();
+      });
+      $(".work8").mouseover(function() {
+        $(".work8-overlay").show();
+      }).mouseout(function() {
+        $(".work8-overlay").hide();
+      });
+    
       
     });
   
