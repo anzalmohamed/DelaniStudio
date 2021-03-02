@@ -62,6 +62,29 @@
 .form-control{
 color:whitesmoke;
 }
-#footer{
-    align-items: center;
-}
+
+.Footer {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-family:  sans-serif;
+  }
+ #portfolio{
+     margin-top: 0cm;
+ }
+ #mouse-click {
+    animation: up-down 3s infinite;
+  }
+  
+  @keyframes up-down{
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-55px);
+    }
+    60% {
+      transform: translateY(-45px);
+    }
+  }
+  
