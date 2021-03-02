@@ -42,17 +42,6 @@ $(document).ready(function(){
       else {
         alert("Please enter your name and email!");
       }
-      $(document).ready(function(){
-        $("#work1").mouseover(function(){
-          $("#overlay").show();
-        }).mouseout(function(){
-          $("#overlay").hide();
-        });
-      });
-     
     });
-   
   });
-  
-  
   
